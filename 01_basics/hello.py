@@ -1,6 +1,10 @@
-print("Hello World!")
+# print("Hello World!")
 
-def greet_in_hindi(greet):
+def greetings(greet):
     print(greet)
 
-greet_in_hindi("Namaste")
+greetings("Namaste")
+
+greet_in_gujrati = "Tamaru Swagat che"
+greet_in_hindi = "Namaskaram"
+greet_in_english = "Welcome"

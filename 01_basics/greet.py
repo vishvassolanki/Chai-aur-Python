@@ -1,3 +1,3 @@
-from hello import greet_in_hindi
+from hello import greetings
 
-greet_in_hindi("Welcome")
+greetings("Welcome")
